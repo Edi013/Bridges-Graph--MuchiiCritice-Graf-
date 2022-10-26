@@ -7,7 +7,7 @@
 
 char vecin[NMAX][NMAX]; 
 
-char visit[NMAX];      
+int visit[NMAX];      
 
 int trace[NMAX];       
 int kth;               
